@@ -8,3 +8,8 @@ For everything to work properly:
 - you can also press "esc" in stead of a "normal" trial response
 
 Caution: Extremely boring :D (especially very long!)
+
+The images used in the localiser (along with their phase scrambled counter
+parts are):
+
+![example_images](example_images/examples.png)
