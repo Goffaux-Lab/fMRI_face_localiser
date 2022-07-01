@@ -7,10 +7,10 @@ For everything to work properly:
 - to end (break the loop) press Ctrl+C -> your data will be saved anyway 
 - you can also press "esc" in stead of a "normal" trial response
 
-Caution: Extremely boring :D (especially very long!)
+Caution: Extremely boring :D (especially very long! 744 secs, or 12.4 mins)
 
-The images used in the localiser (along with their phase scrambled counter
-parts) are:
+Some examples of the images used in the localiser (along with their phase
+scrambled counter parts) are:
 
 ![example_images](example_images/examples.png)
 
