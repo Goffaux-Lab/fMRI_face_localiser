@@ -5,7 +5,7 @@ One run has a duration of ~= 12min
 For everything to work properly:
 - don't change or move any files/folders
 - to end (break the loop) press Ctrl+C -> your data will be saved anyway 
-- you can also press "esc" in stead of a "normal" trial response
+- you can also press "esc" instead of a "normal" trial response
 
 Caution: Extremely boring :D (especially very long! 744 secs, or 12.4 mins)
 
